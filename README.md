@@ -1,4 +1,4 @@
-*Hawaii Climate Analysis: An In-depth Investigation*
+**Hawaii Climate Analysis: An In-depth Investigation**
 
 Within this scholarly endeavor, I undertook a comprehensive examination and assessment of the climatic conditions in Honolulu, Hawaii, leveraging a sophisticated toolkit encompassing Python, SQLAlchemy, Pandas, and Matplotlib. The overarching aim of this research was to contribute valuable insights to the realm of trip planning through the execution of a meticulous climate analysis specific to the Honolulu area.
 
